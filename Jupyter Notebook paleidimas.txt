@@ -1,0 +1,10 @@
+1. Is Windows meniu pasirinkti Anaconda Prompt
+
+2. Ivesti 
+
+	cd /d d:\OneDrive\Desktop\GitHub
+ -> enter
+
+3. Ivesti
+	jupyter notebook
+ -> enter
